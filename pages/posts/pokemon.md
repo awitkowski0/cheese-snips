@@ -16,6 +16,8 @@ These sources, who wish to remain anonymous, claim that Biden has been using the
 
 Another source claimed that they saw Biden using the fake cards during a recent summit with Russian President Vladimir Putin.
 
+![](putin_biden_pokemon.jpeg)
+
 "I was there and I saw it with my own eyes," said the source. "Biden pulled out these cards and started using them in the battle. It was obvious that they were fake. Putin was furious and called him out on it, but Biden just shrugged it off like it was no big deal."
 
 The White House has yet to comment on these allegations.
