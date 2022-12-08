@@ -1,3 +1,11 @@
+---
+ title: The Mause in The Haus
+ date: 2022/12/07
+ description: A story about a mouse...
+ tag: story
+ author: Cheese Snips
+ ---
+
 # The Mause in The Haus
 
 Once upon a time, in a small house on the edge of a bustling city, lived a family of three: a father, a mother, and their young daughter. They lived a happy life, filled with love and laughter.
