@@ -4,9 +4,11 @@
  description: A story about a mouse...
  tag: story
  author: Cheese Snips
- ---
+---
 
 # The Mause in The Haus
+
+## Act 1
 
 Once upon a time, in a small house on the edge of a bustling city, lived a family of three: a father, a mother, and their young daughter. They lived a happy life, filled with love and laughter.
 
@@ -26,6 +28,8 @@ In the end, the mouse's cunning and determination proved to be too much for the 
 
 And so, the mouse lived happily ever after, ruling over the empty and silent house, with no one to disturb its reign of terror.
 
+## Act 2
+
 The mouse, now armed with a gun that it had found by the river, set out to track down the family that had once lived in the house. It was determined to get its revenge, and stop at nothing to achieve its goal.
 
 The mouse followed the family's trail, using its sharp senses and cunning intelligence to track them down. It scurried through the city streets, avoiding dangers and obstacles, until it finally caught sight of the family.
@@ -39,6 +43,8 @@ The family was startled by the noise, and quickly realized what was happening. T
 The mouse struggled and fought, but it was no match for the family. They took it outside and threw it into the river, where it was swept away by the current.
 
 And so, the family was finally able to live in peace and happiness, without fear of the menacing mouse. They learned to be grateful for what they had, and never took their safety and security for granted.
+
+## Act three
 
 The mouse, miraculously, survived its ordeal in the river. It washed up on the banks, battered and bruised but still alive. The mouse was determined to get its revenge on the family that had wronged it, and so it set out to plan its final attack.
 
