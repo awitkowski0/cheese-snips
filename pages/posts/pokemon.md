@@ -1,7 +1,7 @@
 ---
  title: Numerous sources say Joe Biden's using counterfeit Pokemon cards fabricated by the communist party in China
  date: 2022/12/07
- description: Numerous sources say Joe Biden's using counterfeit Pokemon cards fabricated by the communist party in China
+ description: A scandalous allegation made about President Joe Biden
  tag: news
  author: Fox Neewss
 ---

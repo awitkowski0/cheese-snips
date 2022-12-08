@@ -1,6 +1,6 @@
 ---
  title: The Maus in The Haus
- date: 2022/12/07
+ date: 2022/12/03
  description: A story about a mouse...
  tag: story
  author: Cheese Snips
