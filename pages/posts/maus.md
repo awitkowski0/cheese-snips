@@ -1,12 +1,12 @@
 ---
- title: The Mause in The Haus
+ title: The Maus in The Haus
  date: 2022/12/07
  description: A story about a mouse...
  tag: story
  author: Cheese Snips
 ---
 
-# The Mause in The Haus
+# The Maus in The Haus
 
 ## Act 1
 
@@ -44,7 +44,7 @@ The mouse struggled and fought, but it was no match for the family. They took it
 
 And so, the family was finally able to live in peace and happiness, without fear of the menacing mouse. They learned to be grateful for what they had, and never took their safety and security for granted.
 
-## Act three
+## Act 3
 
 The mouse, miraculously, survived its ordeal in the river. It washed up on the banks, battered and bruised but still alive. The mouse was determined to get its revenge on the family that had wronged it, and so it set out to plan its final attack.
 
