@@ -4,7 +4,7 @@ export default function Document() {
   const meta = {
     title: 'Cheese Snips',
     description: 'A series of short stories.',
-    image: 'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
+    image: 'https://github.com/awitkowski0/cheese-snips/blob/main/public/images/cheesy.png'
   }
 
   return (
