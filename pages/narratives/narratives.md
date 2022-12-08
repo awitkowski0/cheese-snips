@@ -1,7 +1,7 @@
 ---
-title: Stories
+title: Narratives
 date: 2022/12/07
-description: Home for stories.
+description: Home for narratives.
 tag: web development
 author: Cheese Snips
 ---
