@@ -1,9 +1,9 @@
 ---
-title: Next.js Pages
-date: 2021/3/18
-description: Learn more about Next.js pages.
+title: Stories
+date: 2022/12/07
+description: Home for stories.
 tag: web development
-author: You
+author: Cheese Snips
 ---
 
 # Next.js Pages
